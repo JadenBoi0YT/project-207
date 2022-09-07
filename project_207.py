@@ -7,6 +7,8 @@ import numpy as np
 import cv2
 import mayavi as mlab
 
+#Test comment
+
 try:
     sys.path.append(glob.glob('../carla/dist/carla-*%d.%d-%s.egg' % (
         sys.version_info.major,
